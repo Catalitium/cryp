@@ -1,0 +1,24 @@
+# Bytecode and cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.env/
+cryp/
+
+# Build / packaging
+build/
+dist/
+*.egg-info/
+
+# Editor and OS files
+.DS_Store
+Thumbs.db
+
+# Generated artifacts
+*.vroll
+*.zip
